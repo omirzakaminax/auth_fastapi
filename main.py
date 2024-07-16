@@ -9,7 +9,7 @@ posts = [
     {
         "title": "Meow",
         "description": "meow meow",
-        "author": "meow"
+        "author": "meow meow"
     }
 ]
 
